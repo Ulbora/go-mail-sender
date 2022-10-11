@@ -1,3 +1,3 @@
 module github.com/Ulbora/go-mail-sender
 
-go 1.13
+go 1.18
